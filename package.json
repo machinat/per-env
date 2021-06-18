@@ -1,6 +1,6 @@
 {
-  "name": "per-env",
-  "version": "1.0.2",
+  "name": "@machinat/per-env",
+  "version": "1.1.0",
   "description": "Clean up your package.json with per-NODE_ENV npm scripts",
   "bin": {
     "per-env": "./bin/per-env"
